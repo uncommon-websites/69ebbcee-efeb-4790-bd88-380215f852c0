@@ -19,25 +19,25 @@
 			<!-- Story 1 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="/generated/image-amazon-brand-owner-reviewing-product-ana-1766007663678-1.webp" alt="Amazon Brand Owner" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
-					<div class="absolute bottom-4 left-4 right-4 bg-black/70 backdrop-blur-sm p-3 rounded">
+					<img src="/generated/image-confident-white-male-business-owner-in-h-1766009630278-0.webp" alt="Amazon Brand Owner" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<div class="absolute bottom-4 left-4 right-4 bg-primary-600/90 backdrop-blur-sm p-3 rounded">
 						<div class="text-white font-bold text-sm">Home & Kitchen Brand</div>
 					</div>
 				</div>
 				<h3 class="mb-2 text-xl font-medium text-gray-900">How a 7-Figure Brand Increased Profit Margins by 34% in 90 Days</h3>
-				<p class="text-xs text-gray-500">Sarah M., Brand Owner</p>
+				<p class="text-xs text-gray-500">David M., Brand Owner</p>
 			</div>
 
 			<!-- Story 2 -->
 			<div class="group cursor-pointer">
 				<div class="relative mb-6 overflow-hidden bg-gray-200 aspect-video">
-					<img src="/generated/image-successful-e-commerce-business-owner-cel-1766007668075-2.webp" alt="Successful Amazon Seller" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
-					<div class="absolute bottom-4 left-4 right-4 bg-black/70 backdrop-blur-sm p-3 rounded">
+					<img src="/generated/image-successful-white-male-entrepreneur-in-hi-1766009636151-1.webp" alt="Successful Amazon Seller" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+					<div class="absolute bottom-4 left-4 right-4 bg-primary-600/90 backdrop-blur-sm p-3 rounded">
 						<div class="text-white font-bold text-sm">Beauty & Personal Care</div>
 					</div>
 				</div>
 				<h3 class="mb-2 text-xl font-medium text-gray-900">From Struggling to Thriving: Cutting ACOS by 40% While Doubling Sales</h3>
-				<p class="text-xs text-gray-500">Michael T., Amazon Entrepreneur</p>
+				<p class="text-xs text-gray-500">Robert T., Amazon Entrepreneur</p>
 			</div>
 		</div>
 	</div>

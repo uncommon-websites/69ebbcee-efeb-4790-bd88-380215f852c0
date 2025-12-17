@@ -22,8 +22,8 @@
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<span class="font-bold text-gray-800 text-lg">DataHawk</span>
 			</div>
-			<div class="col-span-2 row-span-2 flex flex-col items-center justify-center border-b border-gray-200 bg-white p-8 text-center z-10">
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[03] Amazon Ecosystem</div>
+			<div class="col-span-2 row-span-2 flex flex-col items-center justify-center border-b border-gray-200 bg-primary-50 p-8 text-center z-10">
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-primary-600 uppercase">[03] Amazon Ecosystem</div>
 				<h2 class="text-4xl font-medium tracking-tight text-gray-900">Expert in the tools that matter</h2>
 			</div>
 

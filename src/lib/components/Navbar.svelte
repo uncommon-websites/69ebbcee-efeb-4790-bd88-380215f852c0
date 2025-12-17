@@ -4,7 +4,7 @@
 
 <div class="sticky top-0 z-50 w-full bg-white">
 	<!-- Top Banner -->
-	<div class="bg-black px-4 py-2 text-center text-[11px] font-medium tracking-wide text-white">
+	<div class="bg-primary-700 px-4 py-2 text-center text-[11px] font-medium tracking-wide text-white">
 		<a href="#" class="hover:underline">
 			Former Amazon Brand Owner Reveals Profit-First Strategies &rarr; Learn More
 		</a>

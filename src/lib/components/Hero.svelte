@@ -53,10 +53,10 @@
 		</div>
 
 		<!-- Stats -->
-		<div class="flex flex-wrap items-center justify-center gap-12 border-t border-gray-200 pt-8">
+		<div class="flex flex-wrap items-center justify-center gap-12 border-t border-primary-100 pt-8">
 			{#each stats as stat}
 				<div class="text-center">
-					<div class="text-3xl font-bold text-gray-900">{stat.value}</div>
+					<div class="text-3xl font-bold text-primary-700">{stat.value}</div>
 					<div class="text-xs font-semibold tracking-widest text-gray-500 uppercase">{stat.label}</div>
 				</div>
 			{/each}

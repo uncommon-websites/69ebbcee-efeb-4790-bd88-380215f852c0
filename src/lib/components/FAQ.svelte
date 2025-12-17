@@ -33,7 +33,7 @@
 		<div class="grid grid-cols-1 gap-16 lg:grid-cols-12">
 			<!-- Left Side -->
 			<div class="lg:col-span-4">
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[06] FAQ</div>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-primary-600 uppercase">[06] FAQ</div>
 				<h2 class="mb-6 text-4xl font-medium tracking-tight text-gray-900">Your questions, answered</h2>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
 					Ready to transform your Amazon brand into a profit engine? Book a strategy call to discuss your business and see if ALFI is the right fit.

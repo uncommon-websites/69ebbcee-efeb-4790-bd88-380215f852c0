@@ -2,10 +2,10 @@
 	<div class="mx-auto max-w-[1400px] px-6">
 		<div class="mb-12 flex items-end justify-between">
 			<div>
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[05] Latest Insights</div>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-primary-600 uppercase">[05] Latest Insights</div>
 				<h2 class="text-4xl font-medium tracking-tight text-gray-900">Amazon strategies that<br>drive real profit growth</h2>
 			</div>
-			<a href="#" class="text-[10px] font-bold tracking-widest text-gray-900 uppercase hover:underline">
+			<a href="#" class="text-[10px] font-bold tracking-widest text-primary-700 uppercase hover:text-primary-800">
 				View All Insights &rsaquo;
 			</a>
 		</div>

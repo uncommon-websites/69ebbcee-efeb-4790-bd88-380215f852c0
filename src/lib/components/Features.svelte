@@ -153,10 +153,10 @@
 					No more paying agencies to learn on your dime. Get <strong class="text-gray-900">hands-on Amazon optimization</strong> from an owner who's done it all. We implement proven strategies for PPC, listings, inventory management, and operations that drive real profit growth.
 				</p>
 				<div class="flex items-center gap-4">
-					<a href="#" class="bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
+					<a href="#" class="bg-primary-600 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-primary-700 uppercase">
 						Start Growing
 					</a>
-					<a href="#" class="border border-gray-200 bg-white px-6 py-3 text-[11px] font-bold tracking-widest text-gray-900 transition-colors hover:bg-gray-50 uppercase">
+					<a href="#" class="border border-primary-200 bg-white px-6 py-3 text-[11px] font-bold tracking-widest text-primary-700 transition-colors hover:bg-primary-50 uppercase">
 						See Our Process
 					</a>
 				</div>

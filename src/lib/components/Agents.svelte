@@ -21,18 +21,25 @@
 					</p>
 					
 					<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-						<div class="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
-							<div class="text-4xl mb-3">🎯</div>
+						<div class="bg-primary-600/20 backdrop-blur-sm rounded-lg p-6 border border-primary-400/30">
+							<div class="h-12 w-12 rounded-lg bg-primary-500/20 flex items-center justify-center mb-3">
+								<div class="h-6 w-6 rounded-full bg-primary-400"></div>
+							</div>
 							<h4 class="text-lg font-bold mb-2">Owner Perspective</h4>
 							<p class="text-sm text-white/70">Understands the real pressures and decisions brand owners face daily</p>
 						</div>
-						<div class="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
-							<div class="text-4xl mb-3">📈</div>
+						<div class="bg-primary-600/20 backdrop-blur-sm rounded-lg p-6 border border-primary-400/30">
+							<div class="h-12 w-12 rounded-lg bg-primary-500/20 flex items-center justify-center mb-3">
+								<div class="h-3 w-3 bg-primary-400 rounded-sm transform rotate-45"></div>
+								<div class="h-5 w-1 bg-primary-400 ml-1"></div>
+							</div>
 							<h4 class="text-lg font-bold mb-2">Proven Track Record</h4>
 							<p class="text-sm text-white/70">Built, scaled to 7 figures, and successfully exited her own brand</p>
 						</div>
-						<div class="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
-							<div class="text-4xl mb-3">💡</div>
+						<div class="bg-primary-600/20 backdrop-blur-sm rounded-lg p-6 border border-primary-400/30">
+							<div class="h-12 w-12 rounded-lg bg-primary-500/20 flex items-center justify-center mb-3">
+								<div class="h-6 w-6 border-2 border-primary-400 rounded-full"></div>
+							</div>
 							<h4 class="text-lg font-bold mb-2">Profit-First Focus</h4>
 							<p class="text-sm text-white/70">Strategies focused on bottom-line growth, not vanity metrics</p>
 						</div>
